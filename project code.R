@@ -322,5 +322,3 @@ data.frame(diff1,diff12,diff16,diff1_12,diff1_16,diff12_16,diffAll)
 
 
 
-
-
